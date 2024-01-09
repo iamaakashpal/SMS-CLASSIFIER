@@ -16,7 +16,7 @@ nltk.download('stopwords')
 nltk.download('punkt')
 ps = PorterStemmer()
 
-df = pd.read_csv('/config/workspace/clean.csv', encoding='ISO-8859-1')
+df = pd.read_csv('clean.csv', encoding='ISO-8859-1')
 spam_df = df[df["Predictions"] == "spam"]
 ham_df = df[df["Predictions"] == "ham"]
 
