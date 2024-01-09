@@ -99,7 +99,7 @@ elif selected == "Connect with Me":
     # Use HTML and CSS to display images with specified height and width
     icons_html = [
         f"<a href='mailto:aakashpal1198@gamil.com'><img src='https://raw.githubusercontent.com/iamaakashpal/SMS-CLASSIFIER/main/social/gmail.png' style='margin-right: 25px;' height='{image_size}' width='{image_size}'></a>",
-        f"<a href='https://github.com/iamaakashpal' target='_blank'><img src='https://raw.githubusercontent.com/iamaakashpal/SMS-CLASSIFIER/main/social/github.png' style='margin-right: 25px;' height='{image_size}' width='{image_size}'></a>",
+        f"<a href='https://github.com/iamaakashpal' target='_blank'><img src='https://raw.githubusercontent.com/iamaakashpal/SMS-CLASSIFIER/main/social/1github.png' style='margin-right: 25px;' height='{image_size}' width='{image_size}'></a>",
         f"<a href='https://www.linkedin.com/in/iamaakashpal/' target='_blank'><img src='https://raw.githubusercontent.com/iamaakashpal/SMS-CLASSIFIER/main/social/linkedin.png' style='margin-right: 25px;' height='{image_size}' width='{image_size}'></a>",
         f"<a href='https://www.kaggle.com/aakashpal' target='_blank'><img src='https://raw.githubusercontent.com/iamaakashpal/SMS-CLASSIFIER/main/social/kaggle.png' style='margin-right: 25px;' height='{image_size}' width='{image_size}'></a>",
         f"<a href='https://www.youtube.com/channel/UCYBlRxDjQSFtst6WnjcXsqQ' target='_blank'><img src='https://raw.githubusercontent.com/iamaakashpal/SMS-CLASSIFIER/main/social/yt.png' height='{image_size}' width='{image_size}'></a>",
