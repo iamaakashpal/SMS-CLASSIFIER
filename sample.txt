@@ -1,0 +1,31 @@
+Spam Messages:
+
+Congratulations! You've won a free cruise to the Bahamas! Claim your prize now!
+
+Urgent: Your account has been locked. Click the link to verify your identity.
+
+You've been selected to receive a $1,000 gift card. Claim it now by replying with your details.
+
+Limited-time offer: Double your income with our easy-to-follow investment plan!
+
+Your phone number has been chosen to win a brand new iPhone. Reply 'WIN' to claim.
+
+
+Not Spam Messages:
+
+Hi there! Just wanted to check in and see how you're doing. Let's catch up soon!
+
+The meeting is scheduled for tomorrow at 2 PM in the conference room. See you there!
+
+Your order #123456 has been successfully processed. It will be shipped out tomorrow.
+
+Reminder: Your appointment with Dr. Smith is on Monday at 10 AM. Don't forget!
+
+The latest updates for your favorite app are now available. Update now for new features.
+================================
+conda activate venv/
+pip install -r requirements.txt
+wget -q -O - ipv4.icanhazip.com
+streamlit run app.py & npx localtunnel --port 8501
+# pip install streamlit-option-menu
+# https://www.youtube.com/watch?v=ZZsyxIWdCko
