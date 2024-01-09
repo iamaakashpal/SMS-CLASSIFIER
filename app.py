@@ -81,13 +81,13 @@ elif selected == "Source Code":
     st.write("For a detailed exploration of the dataset and insights gained, check the EDA notebook.")
     st.write("EDA Notebook: [EDA Notebook](https://www.kaggle.com/code/aakashpal/spam-ham-classifier-exploratory-data-analysis/notebook)")
 
-    st.write("### Live Demo ▶️")
-    st.write("For a live working demonstration of the SMS spam classifier, visit the provided demo link.")
-    st.write("Live Demo: [Live Demo](a)")
+    st.write("### Live Demonstration ▶️")
+    st.write("For a live demonstration of the SMS spam classifier, visit the below link.")
+    st.write("Live Demo: In Progress will update soon")
 
-    st.write("### YouTube Video 🎥")
-    st.write("Check out the YouTube video for a visual overview of the SMS Spam or Ham Classifier project.")
-    st.write("YouTube Video: In Progress")
+    # st.write("### YouTube Video 🎥")
+    # st.write("Check out the YouTube video for a visual overview of the SMS Spam or Ham Classifier project.")
+    # st.write("YouTube Video: In Progress")
 
 elif selected == "Connect with Me":
     st.sidebar.write("### Connect with Me")
